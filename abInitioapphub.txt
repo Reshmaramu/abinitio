@@ -1,0 +1,12 @@
+export AB_HOME=/usr/local/abinitio/abinitio-V3-3-5-2
+export AB_APPLICATION_HUB=/usr/local/abinitio/abinitio-app-hub
+PATH=$AB_HOME/bin:$PATH
+#export AB_AIR_ROOT=/u01/abroot_14022016/dist/data/eme/aieme
+export AB_AIR_ROOT=/usr/local/abinitio/EME/repo/coe.lab
+export AB_AG_HOME=/usr/local/abroot/ab/ag_home
+
+Help Link:
+http://10.102.22.111:53528/help/index.jsp 
+
+
+10.102.22.111	
